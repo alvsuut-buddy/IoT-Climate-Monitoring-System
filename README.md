@@ -3,8 +3,6 @@
 IoT Climate Monitoring System is a smart device designed to monitor temperature and humidity in real-time, specifically optimized for classroom environments to ensure comfort and productivity. This system integrates with Firebase for data logging and Blynk for remote monitoring and notifications.
 
 ## 📹 Demo & Documentation
-Watch the system in action here:
-
 **[Watch Project Demo Video on YouTube](https://youtu.be/cKLOGbdeinw?si=KpArHYNi9_JWAdfO)**
 
 ## Key Features
