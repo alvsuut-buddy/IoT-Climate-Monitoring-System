@@ -36,7 +36,7 @@ The project is built using the following components:
 | LCD VDD | 3V3 |
 | LCD VSS | GND |
 | DHT11 Data | D4 |
-| VDD (Power) | 3V3 |
+| VDD | 3V3 |
 | GND | GND |
 
 ## How It Works
