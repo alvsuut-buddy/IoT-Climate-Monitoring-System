@@ -28,7 +28,7 @@ The project is built using the following components:
 - Push Button.
 - Breadboard & Jumper Wires.
 
-## 🔌 Pin Mapping
+## Pin Mapping
 | Component | ESP8266 Pin |
 | :--- | :--- |
 | LED Green | D8 |
