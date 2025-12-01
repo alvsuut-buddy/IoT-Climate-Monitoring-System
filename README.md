@@ -26,15 +26,18 @@ The project is built using the following components:
 - Breadboard & Jumper Wires.
 
 ## 🔌 Pin Mapping
-| Component | ESP8266 Pin | Notes |
-| :--- | :--- | :--- |
-| DHT11 Data | D4 | Sensor Input |
-| LED Green | D3 | Normal Temp Indicator (< 28 C) |
-| LED Red | D2 | High Temp Indicator (> 28 C) |
-| LCD SCL | D1 | I2C Clock |
-| LCD SDA | D0 | I2C Data |
-| VDD (Power) | 3V3 | Power for LCD and Sensors |
-| GND | GND | Common Ground |
+| Component | ESP8266 Pin |
+| :--- | :--- |
+| LED Green | D8 |
+| LED Red | D7 |
+| Push Button | D3 |
+| LCD SCL | D1 |
+| LCD SDA | D0 |
+| LCD VDD | 3V3 |
+| LCD VSS | GND |
+| DHT11 Data | D4 |
+| VDD (Power) | 3V3 |
+| GND | GND |
 
 ## How It Works
 1. Initialization: The system connects to Wi-Fi, Firebase, Blynk, and syncs time via NTP Server.
