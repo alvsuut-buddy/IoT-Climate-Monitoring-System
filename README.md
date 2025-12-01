@@ -4,7 +4,8 @@ IoT Climate Monitoring System is a smart device designed to monitor temperature 
 
 ## 📹 Demo & Documentation
 Watch the system in action here:
-**[▶️ Watch Project Demo Video on YouTube](https://youtu.be/cKLOGbdeinw?si=KpArHYNi9_JWAdfO)**
+
+**[Watch Project Demo Video on YouTube](https://youtu.be/cKLOGbdeinw?si=KpArHYNi9_JWAdfO)**
 
 ## Key Features
 - Real-time Monitoring: Measures temperature and humidity continuously using the DHT11 sensor.
