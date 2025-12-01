@@ -2,6 +2,10 @@
 
 IoT Climate Monitoring System is a smart device designed to monitor temperature and humidity in real-time, specifically optimized for classroom environments to ensure comfort and productivity. This system integrates with Firebase for data logging and Blynk for remote monitoring and notifications.
 
+## 📹 Demo & Documentation
+Watch the system in action here:
+**[▶️ Watch Project Demo Video on YouTube](https://youtu.be/cKLOGbdeinw?si=KpArHYNi9_JWAdfO)**
+
 ## Key Features
 - Real-time Monitoring: Measures temperature and humidity continuously using the DHT11 sensor.
 - Visual Indicators:
@@ -29,15 +33,18 @@ The project is built using the following components:
 | Component | ESP8266 Pin |
 | :--- | :--- |
 | LED Green | D8 |
+| LED Green GND | GND |
 | LED Red | D7 |
+| LED red GND | GND |
 | Push Button | D3 |
+| Push Button GND | GND |
 | LCD SCL | D1 |
 | LCD SDA | D0 |
 | LCD VDD | 3V3 |
 | LCD VSS | GND |
 | DHT11 Data | D4 |
-| VDD | 3V3 |
-| GND | GND |
+| DHT11 VDD | 3V3 |
+| DHT11 GND | GND |
 
 ## How It Works
 1. Initialization: The system connects to Wi-Fi, Firebase, Blynk, and syncs time via NTP Server.
